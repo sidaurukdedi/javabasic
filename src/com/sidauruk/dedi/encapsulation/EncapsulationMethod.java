@@ -1,4 +1,4 @@
-package com.sidauruk.dedi.javaintermediate;
+package com.sidauruk.dedi.encapsulation;
 
 public class EncapsulationMethod {
 	public static void main(String args[]) {
